@@ -1,0 +1,6 @@
+/vendor/
+/tmp/
+/apps/TaskBoard/*
+/apps/kanboard/*
+
+/conf/tech.ini
